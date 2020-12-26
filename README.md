@@ -70,7 +70,7 @@ We can load the random sample of grayscale and color image from the training dat
 
 <h4><b>Using model for one off image transalation</b></h4>
 We can also use generator model for one off image translation.
-Below, the specific grayscale image is choosen from the validation set and fed to generator model. Then the subplot of grayscale image and generated color image is displayed. 
+Below, the specific grayscale image is choosen from the validation set and fed to generator model. Then the subplot of grayscale image and generated color image is displayed. <br>
 
 ![Alt text](imageTransaltionOneOff.png?raw=true "Optional Title")
 
