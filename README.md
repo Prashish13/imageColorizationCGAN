@@ -1,7 +1,7 @@
 # Colorizing Grayscale Photos using Conditional Generative Adversarial Networks(cGAN) model
 
 
-<h4><b>Required Libraries</b></h4>
+<h3><b>Required Libraries</b></h3>
 - OpenCV <br>
 - OS <br>
 - Pickle<br>
@@ -11,7 +11,7 @@
 - Keras<br>
 - Matplotlib<br>
 
-<h4><b>Datasets</b></h4>
+<h3><b>Datasets</b></h3>
 The images used in this project were downloaded from unsplash.com. Around 1100 coastal images were downloaded and divided into train and test folder later.
 The downloaded images were of different size . So, all images were resized into 256 * 256 dimension. PIL is a famous python imaging library, and it was used for resizing images.
 After resizing the images, the corresponding grayscale version of all colored(original) images were created using PIL. 
