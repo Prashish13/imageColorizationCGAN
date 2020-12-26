@@ -1,8 +1,15 @@
 # Colorizing Grayscale Photos using Conditional Generative Adversarial Networks(cGAN) model
 
 
-##Required Libraries
--
+<h4><b>Required Libraries</b></h4>
+- OpenCV
+- OS
+- Pickle
+- PIL
+- Scikit-Image
+- Numpy
+- Keras
+- Matplotlib
 
 Under Development.
 
