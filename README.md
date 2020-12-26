@@ -33,28 +33,9 @@ The generator model is based on the U-net architecture which consist of <b>encod
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Alt text](plot_030000.png?raw=true "Optional Title")
 ![Alt text](U-Net.png?raw=true "Optional Title")
+
+<h4><b>Discriminator </b></h4>
+70*70 patch GAN discriminator model which takes 2 input images that are concatenated together and predicts the patch output of predictions.
+
+<h3><b>Training</b></h3>
