@@ -27,9 +27,8 @@ THe dataset can be found inside <b>Dataset.zip</b>
 
 The architecture and hyperparameter used in this project is described by Philip Isola and his team in the paper entitled <b>"Image-to-Image Translation with Conditional Adversarial Networks".</b> Link:https://arxiv.org/abs/1611.07004
 
-
-
-
+<h4><b>Generator </b></h4>
+ <b> The generator model is based on the U-net architecture which consist of encoder block layer,bottleneck layer and decoder block.Here, skip connection connects encoding layer and decoding layer.Generator takes input grayscale image and tries to generate corresponding color image.<b>
 
 
 
