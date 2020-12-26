@@ -2,16 +2,14 @@
 
 
 <h4><b>Required Libraries</b></h4>
-- OpenCV
-- OS
-- Pickle
-- PIL
-- Scikit-Image
-- Numpy
-- Keras
-- Matplotlib
-
-Under Development.
+- OpenCV <br>
+- OS <br>
+- Pickle<br>
+- PIL<br>
+- Scikit-Image<br>
+- Numpy<br>
+- Keras<br>
+- Matplotlib<br>
 
 
 
