@@ -43,15 +43,21 @@ A batch size of 1 is used as recommended in the paper. Since there are 1000 imag
 
 <b>After 10 epoch</b>
 ![Alt text](plot_010000.png?raw=true "Optional Title")
+<br>
 <b>After 20 epoch</b>
 ![Alt text](plot_020000.png?raw=true "Optional Title")
+<br>
 <b>After 40 epoch</b>
 ![Alt text](plot_040000.png?raw=true "Optional Title")
+<br>
 <b>After 50 epoch</b>
 ![Alt text](plot_050000.png?raw=true "Optional Title")
+<br>
 <b>After 60 epoch</b>
 ![Alt text](plot_060000.png?raw=true "Optional Title")
+<br>
 <b>After 100 epoch</b>
 ![Alt text](plot_100000.png?raw=true "Optional Title")
+<br>
 
 <h3><b>Result</b></h3>
