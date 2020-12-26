@@ -30,7 +30,8 @@ The architecture and hyperparameter used in this project is described by Philip 
 <h4><b>Generator </b></h4>
 The generator model is based on the U-net architecture which consist of <b>encoder block layer,bottleneck layer and decoder block</b>.Here, skip connection connects encoding layer and decoding layer.Generator takes input grayscale image and tries to generate corresponding color image.
 <b>Image of U-Net Architecture</b>
-![Alt text](U-Net.png?raw=true "Optional Title")
+
+
 
 
 
@@ -56,3 +57,4 @@ The generator model is based on the U-net architecture which consist of <b>encod
 
 
 ![Alt text](plot_030000.png?raw=true "Optional Title")
+![Alt text](U-Net.png?raw=true "Optional Title")
