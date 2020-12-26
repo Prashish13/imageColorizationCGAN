@@ -41,23 +41,23 @@ The generator model is based on the U-net architecture which consist of <b>encod
 <h3><b>Training</b></h3>
 A batch size of 1 is used as recommended in the paper. Since there are 1000 images in the training dataset, and epoch of 100 is used, generator will be evaluated and saved every 10 epochs or 10000 training steps.The model will run for 100000 training step(100 epoch) and loss for each update will be displayed in the console.
 
-<b>After 10 epoch</b>
 ![Alt text](plot_010000.png?raw=true "Optional Title")
+<b>After 10 epoch</b>
 <br>
-<b>After 20 epoch</b>
 ![Alt text](plot_020000.png?raw=true "Optional Title")
+<b>After 20 epoch</b>
 <br>
-<b>After 40 epoch</b>
 ![Alt text](plot_040000.png?raw=true "Optional Title")
+<b>After 40 epoch</b>
 <br>
-<b>After 50 epoch</b>
 ![Alt text](plot_050000.png?raw=true "Optional Title")
+<b>After 50 epoch</b>
 <br>
-<b>After 60 epoch</b>
 ![Alt text](plot_060000.png?raw=true "Optional Title")
+<b>After 60 epoch</b>
 <br>
-<b>After 100 epoch</b>
 ![Alt text](plot_100000.png?raw=true "Optional Title")
+<b>After 100 epoch</b>
 <br>
 
 <h3><b>Result</b></h3>
