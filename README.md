@@ -1,6 +1,9 @@
 # Colorizing Grayscale Photos using Conditional Generative Adversarial Networks(cGAN) model
 
 
+##Required Libraries
+-
+
 Under Development.
 
 
