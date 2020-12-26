@@ -16,7 +16,7 @@ The images used in this project were downloaded from unsplash.com. Around 1100 c
 The downloaded images were of different size . So, all images were resized into 256 * 256 dimension. PIL is a famous python imaging library, and it was used for resizing images.
 After resizing the images, the corresponding grayscale version of all colored(original) images were created using PIL. 
 Later, all grayscale and color images were arranged into 2 seperate folder(Gray & Color) and splitted between Train and Val folders.
-THe dataset can be found inside <b>Dataset.zip</b>
+The dataset can be found inside <b>Dataset.zip</b>
 
 <h3><b>Model</b></h3>
 <b>Conditional generative adversarial network (cGAN) </b>is an extension of the <b>generative adversarial network (GAN)</b> that's used as a machine learning framework for training generative models. The idea was first published in a 2014 paper titled Conditional Generative Adversarial Nets by Mehdi Mirza and Simon Osindero.
